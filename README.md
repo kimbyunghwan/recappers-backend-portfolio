@@ -1,6 +1,6 @@
 # AI 기반 강의 요약 및 학습 지원 시스템 - Backend API
 
-> Capstone Design 경진대회 프로젝트 (2024)
+> Capstone Design 경진대회 프로젝트 (2025.07 – 2025.09)
 >
 > PDF 문서와 음성 파일을 업로드하면 OCR / STT → 텍스트 추출 → NLP 요약 → 문제 자동 생성까지 처리하는 REST API 백엔드 서버입니다.
 
