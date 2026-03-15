@@ -1,4 +1,4 @@
-# 음성·문서 기반 교육 콘텐츠 자동화 플랫폼 - Backend API
+# AI 기반 강의 요약 및 학습 지원 시스템 - Backend API
 
 > Capstone Design 경진대회 프로젝트 (2024)
 >
